@@ -1,13 +1,13 @@
 ### Hello, world! 👋
 
-I'm Simon Kobler, a **DevOps Solution Architect** with a passion for simplifying complex systems and empowering developers through robust, automated, and scalable cloud infrastructures.
+I'm Simon Kobler, a **Senior Software Developer** with a passion for simplifying complex systems and empowering developers through robust, automated, and scalable cloud infrastructures.
 
 My focus is on:
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" width="16" height="16"> **Kubernetes**](https://kubernetes.io/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="16" height="16"> **AWS**](https://aws.amazon.com)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" width="16" height="16"> **Azure**](https://azure.com)
 
-🌱 I'm currently working at [<img src="https://cdn.cookielaw.org/logos/4299597f-b79a-4366-b0af-8602ffca3653/70f24e49-ddb0-4577-ba64-98295e8f6004/0c18e79b-d3ae-4fb3-ac2a-ed6aa3ca6efe/gore_logo_color_positive_rgb.png" width="25" height="25"> **W. L. Gore & Associates GmbH**](https://gore.de), helping teams build streamlined, developer-friendly platforms and environments.
+🌱 I'm currently working at [<img src="[https://cdn.cookielaw.org/logos/4299597f-b79a-4366-b0af-8602ffca3653/70f24e49-ddb0-4577-ba64-98295e8f6004/0c18e79b-d3ae-4fb3-ac2a-ed6aa3ca6efe/gore_logo_color_positive_rgb.png](https://www.sap.com/dam/application/shared/logos/sap_logo_rgb_onwhite_0300_0300.png)" width="25" height="25"> **SAP SE**](https://sap.com), contributing to the CAP (Cloud Application Programming Model) team.
 
 ---
 
