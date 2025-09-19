@@ -7,7 +7,7 @@ My focus is on:
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="16" height="16"> **AWS**](https://aws.amazon.com)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" width="16" height="16"> **Azure**](https://azure.com)
 
-🌱 I'm currently working at [<img src="https://www.sap.com/dam/application/shared/logos/sap_logo_rgb_onwhite_0300_0300.png)" width="25" height="25"> **SAP SE**](https://sap.com), contributing to the CAP (Cloud Application Programming Model) team.
+🌱 I'm currently working at [<img src="https://www.sap.com/dam/application/shared/logos/sap_logo_rgb_onwhite_0300_0300.png" width="25" height="25"> **SAP SE**](https://sap.com), contributing to the CAP (Cloud Application Programming Model) team.
 
 ---
 
